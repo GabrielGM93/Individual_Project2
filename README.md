@@ -9,7 +9,7 @@
 # <h1 align="center">**`Stock Market`**</h1>
 
 <p align='center'>
-<img src = 'https://m.foolcdn.com/media/dubs/original_images/Intro_slide_-_digital_stock_chart_going_up_-_source_getty.jpg' height = 200>
+<img src="https://raw.githubusercontent.com/GabrielGM93/Individual_Project2/master/Assets/Stockmarket.jpg"  height=200>
 <p>
 
 Welcome! On this occasion, I did a job placing myself in the role of a ***Data Analyst***.
@@ -48,6 +48,10 @@ Once the EDA (Exploratory Data Analysis) is carried out, I confirm that there ar
 2020: The stock market experienced a significant decline in March due to the COVID-19 pandemic and the lockdown measures implemented to slow its spread. However, thanks to accommodative monetary policy and fiscal stimulus packages, the stock market quickly recovered, and the S&P 500 closed the year with positive growth.
 
 2021: The stock market continued its recovery during this period due to global economic recovery, low interest rates, and rising corporate earnings. The S&P 500 reached new all-time highs.
+
+<p align='center'>
+<img src="https://raw.githubusercontent.com/GabrielGM93/Individual_Project2/master/Assets/AdjClose1.jpg"  height=500>
+<p>
   
  Starting in 2021, we can see a sharp drop in the value of stocks due to the pandemic, which ends its decline by 2022. My study will focus on those sectors with positive slopes in their adjusted closing after the second quarter of 2022 (which is where the pandemic-related stock drop ends and sectors start gaining strength again). We will take those sectors with the highest stock values and positive slopes, and we can notice that some of them are: Total Consumer Discretionary, Total Health Care, and Total Industrial.
 
