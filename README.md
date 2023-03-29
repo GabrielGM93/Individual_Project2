@@ -49,17 +49,18 @@ Once the EDA (Exploratory Data Analysis) is carried out, I confirm that there ar
 
 2021: The stock market continued its recovery during this period due to global economic recovery, low interest rates, and rising corporate earnings. The S&P 500 reached new all-time highs.
   
-  A partir del año 2021 podemos ver una fuerte caida del valor de las acciones, producto de la Pandemia, la cual termina su descenso para 2022, mi estudio se va centrar en aquellos sectores con pendientes positivas en su cierre ajustado luego del segundo trimestre de 2022(que es donde termina la caida de las acciones producto de la pandemia y los sectores comienzan nuevamente a tomar fuerza)
-  
-  Vamos a tomar dichos sectores con valor de accion mas alto y pendiente positiva,podemos notar que algunos son: Total Consumer Discretionary, Total Health Care, Total Industrial
-  
-  Una vez escogidos, realizamos una comparacion de lo mismos en el cuadro de Volumen, para identificar el comportamiento sobre inversion que poseen, siendo de estos tres elegidos, Consumer Discretionary el sector que mas inversiones recibe.
-  Ahora lo que vamos hacer es estudiar cada sector particularmente, estudiar su variacion porcentual y tratar de sacar su volatilidad, a su vez haremos un cuadro de lineas en base al tiempo con eje Y respecto al Cierre ajustado sobre las empresas que componen dicho sector, y aplicaremos el mismo procedimiento, y asi podremos determinar cuales empresas tienen un mayor valor de accion y continuan con pendiente positiva
-  
-  El fundamento es que bajo cualquier variable que pueda afectar a las acciones del S&P500 en general,(como la crisis financiera global del 2008, Pandemias, Guerras,Inflacion), hay ciertos sectores que se mantienen indispensables para el desarrollo humano, recibiendo ayuda de los gobiernos pertinentes o nuevas medidas legales para evitar su caida y que la sociedad cuente con las herramientas para superar el problema, reduciendo asi el riesgo de inversion en dichos sectores.
-  
-  Dentro de Total Consumer Discretionary, podemos notar que su variacion porcentual hacia los ultimos trimestres es positiva, y que las dos empresas en crecimiento y de valor de acciones mas grande son : "NVR" a company engaged in home construction and "AZO" an American retailer of aftermarket automotive parts and accessories
-  
-  Dentro de Total Health Care, tambien con diferencia porcentual positiva, las dos mejores companias en cuanto a valor de accion y crecimiento son: "MTD",
+ Starting in 2021, we can see a sharp drop in the value of stocks due to the pandemic, which ends its decline by 2022. My study will focus on those sectors with positive slopes in their adjusted closing after the second quarter of 2022 (which is where the pandemic-related stock drop ends and sectors start gaining strength again). We will take those sectors with the highest stock values and positive slopes, and we can notice that some of them are: Total Consumer Discretionary, Total Health Care, and Total Industrial.
+
+Once chosen, we will compare them in the Volume chart to identify their investment behavior. Of these three chosen, Consumer Discretionary is the sector that receives the most investments. Now what we are going to do is to study each sector separately, study its percentage variation, try to determine its volatility, and at the same time, we will make a line chart based on time with the Y-axis regarding the adjusted closing on the companies that make up that sector. Then we will apply the same procedure, and we can determine which companies have a higher stock value and continue with a positive slope.
+
+The foundation is that under any variable that can affect the stocks of the S&P500 in general (such as the global financial crisis of 2008, pandemics, wars, inflation), there are certain sectors that remain essential for human development. They receive help from the relevant governments, for example, new legal measures to prevent their fall and provide society with the tools to overcome the problem, thus reducing the investment risk in those sectors.
+
+Within Total Consumer Discretionary, we can see that its percentage variation towards the last quarters is positive, and that the two growing companies with the largest stock values are: "NVR," a company engaged in home construction, and "AZO," an American retailer of aftermarket automotive parts and accessories.
+
+Within Total Health Care, also with a positive percentage difference, we determine that the two best companies in terms of stock value and growth are: "MTD," a multinational manufacturer of scales and analytical instruments, and "REGN," an American biotechnology company.
+
+Finally, in the Total Industrial sector, we have: "GWW," an industrial supply company, and "NOC," an American multinational aerospace and defense technology company.
+
+Through these analyses, we can determine that these six companies are the most feasible when making an investment. We can add to the report the study of the volatility of each company, which we obtain by calculating the standard deviation of the sum of percentage variation over the number of cycles taken.
   
 <p>
