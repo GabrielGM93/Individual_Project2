@@ -12,16 +12,15 @@
 <img src = 'https://m.foolcdn.com/media/dubs/original_images/Intro_slide_-_digital_stock_chart_going_up_-_source_getty.jpg' height = 200>
 <p>
 
-  ¡Bienvenidos! En esta ocasión, realizare un trabajo situandome en el rol de un ***Data Analyst***.
+Welcome! On this occasion, I did a job placing myself in the role of a ***Data Analyst***.
 
-## **Contexto y rol a desarrollar**
 
 ### **Context**
 
 The emergence of the COVID-19 pandemic had significant implications on the international financial market, with a marked movement of investments towards technology companies and monetary issuance by governments to help those whose incomes were affected. This led to a hyper-liquidity at a global level and an increase in migration to the US dollar, causing many developing countries to see their debts in dollars become more expensive. Additionally, there is uncertainty regarding the global economic situation and the impact of other geopolitical events. In the financial market, governments and companies can obtain financing while individuals can invest their savings and earn profits.
 
  
-### Rol a desarrollar
+### Rol to develop
 
 The task at hand is to simulate a scenario where a company that wants to invest in the stock market requests a detailed analysis. Since the company has no knowledge of this financial area, they request an explanation of what has happened in this market in recent years (considering positive and negative impacts since the year 2000), investment recommendations (either focused on companies or their sectors), and other complementary information.
 
@@ -32,9 +31,7 @@ Thus, the main objective is to understand the situation of the stock market in t
 
 ## **Proyect**
   
-una vez realidazo el EDA
-
-The following are the main events that have occurred in the S&P 500 stock market index over the last few years:
+Once the EDA (Exploratory Data Analysis) is carried out, I confirm that there are missing values, outliers, anomalies, and proceed to make a line graph over time for the 11 sectors that make up the S&P500. Our Y-axis shows the Adjusted Close, and a second line chart that shows Volume over time.
 
 2000-2002: The S&P 500 experienced a significant decline due to the dot-com bubble burst and the 9/11 terrorist attacks. The US economy went into recession and the S&P 500 lost about 50% of its value.
 
@@ -52,7 +49,17 @@ The following are the main events that have occurred in the S&P 500 stock market
 
 2021: The stock market continued its recovery during this period due to global economic recovery, low interest rates, and rising corporate earnings. The S&P 500 reached new all-time highs.
   
+  A partir del año 2021 podemos ver una fuerte caida del valor de las acciones, producto de la Pandemia, la cual termina su descenso para 2022, mi estudio se va centrar en aquellos sectores con pendientes positivas en su cierre ajustado luego del segundo trimestre de 2022(que es donde termina la caida de las acciones producto de la pandemia y los sectores comienzan nuevamente a tomar fuerza)
   
+  Vamos a tomar dichos sectores con valor de accion mas alto y pendiente positiva,podemos notar que algunos son: Total Consumer Discretionary, Total Health Care, Total Industrial
   
+  Una vez escogidos, realizamos una comparacion de lo mismos en el cuadro de Volumen, para identificar el comportamiento sobre inversion que poseen, siendo de estos tres elegidos, Consumer Discretionary el sector que mas inversiones recibe.
+  Ahora lo que vamos hacer es estudiar cada sector particularmente, estudiar su variacion porcentual y tratar de sacar su volatilidad, a su vez haremos un cuadro de lineas en base al tiempo con eje Y respecto al Cierre ajustado sobre las empresas que componen dicho sector, y aplicaremos el mismo procedimiento, y asi podremos determinar cuales empresas tienen un mayor valor de accion y continuan con pendiente positiva
+  
+  El fundamento es que bajo cualquier variable que pueda afectar a las acciones del S&P500 en general,(como la crisis financiera global del 2008, Pandemias, Guerras,Inflacion), hay ciertos sectores que se mantienen indispensables para el desarrollo humano, recibiendo ayuda de los gobiernos pertinentes o nuevas medidas legales para evitar su caida y que la sociedad cuente con las herramientas para superar el problema, reduciendo asi el riesgo de inversion en dichos sectores.
+  
+  Dentro de Total Consumer Discretionary, podemos notar que su variacion porcentual hacia los ultimos trimestres es positiva, y que las dos empresas en crecimiento y de valor de acciones mas grande son : "NVR" a company engaged in home construction and "AZO" an American retailer of aftermarket automotive parts and accessories
+  
+  Dentro de Total Health Care, tambien con diferencia porcentual positiva, las dos mejores companias en cuanto a valor de accion y crecimiento son: "MTD",
   
 <p>
